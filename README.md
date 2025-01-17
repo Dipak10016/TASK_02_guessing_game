@@ -20,7 +20,7 @@ This is a simple number guessing game written in C++. The program generates a ra
    ```
 3. **Compile the program** using a C++ compiler. For example:
    ```bash
-   g++ -o guessing_game guessing_game.cpp
+   g++ -o guessing_game TASK_2.CPP
    ```
 4. **Run the program**:
    ```bash
@@ -41,12 +41,10 @@ Congratulations! You guessed the number 2 in 3 attempts.
 ```
 
 ## File Structure 🗂
-- `guessing_game.cpp`: The main C++ program file containing the game logic.
+- `TASK_2.CPP`: The main C++ program file containing the game logic.
 
 ## Requirements 🔧
 - A C++ compiler (e.g., GCC, Clang, or MSVC)
-
-
 
 Enjoy playing the Guessing Game and have fun! 🎮🎉
 
